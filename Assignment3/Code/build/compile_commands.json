@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/eigen/3.4.0_1/include -I/usr/local/include -I/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/./include -isystem /opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/main.cpp",
+  "file": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/eigen/3.4.0_1/include -I/usr/local/include -I/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/./include -isystem /opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/rasterizer.cpp",
+  "file": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/eigen/3.4.0_1/include -I/usr/local/include -I/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/./include -isystem /opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/Triangle.cpp",
+  "file": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.cpp.o"
+},
+{
+  "directory": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/Cellar/eigen/3.4.0_1/include -I/usr/local/include -I/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/./include -isystem /opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c /Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/Texture.cpp",
+  "file": "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/Texture.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Texture.cpp.o"
+}
+]

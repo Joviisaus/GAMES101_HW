@@ -1,0 +1,3 @@
+/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/pa0/build/CMakeFiles/Transformation.dir
+/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/pa0/build/CMakeFiles/edit_cache.dir
+/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/pa0/build/CMakeFiles/rebuild_cache.dir

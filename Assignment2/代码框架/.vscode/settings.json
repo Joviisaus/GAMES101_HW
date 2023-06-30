@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "optional": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "stack": "cpp",
+        "unordered_map": "cpp",
+        "variant": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "core": "cpp"
+    }
+}
