@@ -1,0 +1,3 @@
+/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment4/code/build/CMakeFiles/BezierCurve.dir
+/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment4/code/build/CMakeFiles/edit_cache.dir
+/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment4/code/build/CMakeFiles/rebuild_cache.dir
