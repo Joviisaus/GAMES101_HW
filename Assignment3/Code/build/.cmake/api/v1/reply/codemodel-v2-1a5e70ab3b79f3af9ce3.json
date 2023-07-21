@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Rasterizer::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Rasterizer-Debug-138e800f9cf3f3708301.json",
+					"jsonFile" : "target-Rasterizer-Debug-0053543746ebdec613c0.json",
 					"name" : "Rasterizer",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build",
-		"source" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code"
+		"build" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment3/Code/build",
+		"source" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment3/Code"
 	},
 	"version" : 
 	{

@@ -145,39 +145,13 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/opt/homebrew/Cellar/cmake/3.26.3/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/opencv4/OpenCVConfig-version.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/opencv4/OpenCVConfig.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/Cellar/cmake/3.26.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/opt/homebrew/Cellar/cmake/3.26.3/share/cmake/Modules/FindPackageMessage.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/opencv4/OpenCVModules.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/opencv4/OpenCVModules-release.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build",
-		"source" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code"
+		"build" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code/build",
+		"source" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code"
 	},
 	"version" : 
 	{

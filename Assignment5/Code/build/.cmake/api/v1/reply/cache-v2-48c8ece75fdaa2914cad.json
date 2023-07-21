@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build"
+			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -462,10 +462,6 @@
 			"properties" : 
 			[
 				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
 					"name" : "HELPSTRING",
 					"value" : "No help, variable specified on the command line."
 				}
@@ -495,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -555,7 +551,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code"
+			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -839,7 +835,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Rasterizer"
+			"value" : "RayTracing"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1122,31 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_OpenCV",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Details about finding OpenCV"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "[/opt/homebrew/Cellar/opencv/4.7.0_4][v4.7.0()]"
-		},
-		{
-			"name" : "OpenCV_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for OpenCV."
-				}
-			],
-			"type" : "PATH",
-			"value" : "/opt/homebrew/lib/cmake/opencv4"
-		},
-		{
-			"name" : "Rasterizer_BINARY_DIR",
+			"name" : "RayTracing_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1155,10 +1127,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code/build"
+			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code/build"
 		},
 		{
-			"name" : "Rasterizer_IS_TOP_LEVEL",
+			"name" : "RayTracing_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1170,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Rasterizer_SOURCE_DIR",
+			"name" : "RayTracing_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1179,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/HW/Assignment3/Code"
+			"value" : "/Users/jingouyang/Personal/Courseware/Graduation_Project/GAMES101/games101_HW/Assignment5/Code"
 		}
 	],
 	"kind" : "cache",
