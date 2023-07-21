@@ -42,4 +42,4 @@ shader的应用
 
 光线追踪
 
-![binary](Assignment5/Code/build/binary.png)
+![binary](Assignment5/Code/build/binary.ppm)
