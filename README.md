@@ -22,7 +22,24 @@
 
 shader的应用
 
----
+![normal](Assignment3/Code/build/normal.png)
 
+![phong](Assignment3/Code/build/phong.png)
 
+![texture](Assignment3/Code/build/texture.png)
 
+![bump](Assignment3/Code/build/bump.png)
+
+![displacement](Assignment3/Code/build/displacement.png)
+
+### Pa 4
+
+贝塞尔曲线
+
+![my_bezier_curve](Assignment4/code/build/my_bezier_curve.png)
+
+### Pa 5
+
+光线追踪
+
+![binary](Assignment5/Code/build/binary.png)
